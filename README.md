@@ -1,19 +1,19 @@
-# AI-Study-Tool｜AI 学习工具
+# Xiaoding-AI-Study-Tool｜小玎 AI 学习工具
 
 **全学科 AI 学习与复习助手 / Multi-subject AI Study & Review Tool**
 
 上传自己的笔记、课件、教材摘录或培训文档，让 AI 整理知识点、生成练习，并根据回答给出点评。面向学校课程、大学专业、职业技能和公司培训，支持数学、英语、心理学、医学、法学、电商运营等资料学习场景。
 
-项目从 MySQL 复习工具扩展而来，现在使用 **AI-Study-Tool** 作为仓库名称。应用下载包中的「小玎的复习室」是同一款工具。
+项目从 MySQL 复习工具扩展而来，现在使用 **Xiaoding-AI-Study-Tool** 作为仓库名称。应用下载包中的「小玎的复习室」是同一款工具。
 
 ## 下载通用学科版
 
-**[打开下载页面](https://github.com/xaod2271/AI-Study-Tool/releases/tag/v0.4.3)**
+**[打开下载页面](https://github.com/xaod2271/Xiaoding-AI-Study-Tool/releases/tag/v0.4.3)**
 
 | 系统 | 下载 | 要求 |
 | --- | --- | --- |
-| Windows | [Windows 0.4.3](https://github.com/xaod2271/AI-Study-Tool/releases/download/v0.4.3/XiaodingReview-Windows-x64-0.4.3.zip) | Windows 10/11，Intel / AMD 64 位 |
-| Mac | [Mac 0.4.2](https://github.com/xaod2271/AI-Study-Tool/releases/download/v0.4.3/XiaodingReview-macOS-universal-0.4.2.zip) | macOS 13+，Apple 芯片 / Intel |
+| Windows | [Windows 0.4.3](https://github.com/xaod2271/Xiaoding-AI-Study-Tool/releases/download/v0.4.3/XiaodingReview-Windows-x64-0.4.3.zip) | Windows 10/11，Intel / AMD 64 位 |
+| Mac | [Mac 0.4.2](https://github.com/xaod2271/Xiaoding-AI-Study-Tool/releases/download/v0.4.3/XiaodingReview-macOS-universal-0.4.2.zip) | macOS 13+，Apple 芯片 / Intel |
 
 这是加入满分庆祝动画之前的版本，不包含该特效。两端包保留各自已完成版本号，Windows 0.4.3 包含旧后台接管修复。无需安装 Python、Node.js 或 MySQL。请下载应用 ZIP，GitHub 自动生成的 Source code 压缩包不是安装包。校验文件见 Release 附件。
 
